@@ -1,3 +1,4 @@
+# output screen short is also available in this repo
 import turtle
 
 turtle.speed(0)
