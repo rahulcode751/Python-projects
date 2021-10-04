@@ -13,7 +13,7 @@ for chickens in range(0, heads+1, 1):
         quit()
 print("No Solution")
 
-Output:
+
  
  
  
