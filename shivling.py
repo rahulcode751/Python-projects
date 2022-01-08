@@ -4,7 +4,7 @@ import turtle
 turtle.speed(0)
 turtle.hideturtle()
 turtle.setup(800,600)
-turtle.title('AKAL MRITU MARTA KAAM KARTA JO CHANDAAL KA \n KAAL USKA KYA BIGADE BHAKT JO MAHAKAL KA ')
+turtle.title('AKAL MRITYU MARTA KAAM KARTA JO CHANDAAL KA \n KAAL USKA KYA BIGADE BHAKT JO MAHAKAL KA ')
 turtle.speed(0)
 turtle.up()
 turtle.hideturtle()
